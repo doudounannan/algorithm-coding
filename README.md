@@ -38,3 +38,8 @@
 - [堆排序](https://github.com/doudounannan/algorithm-coding/issues/3)
 
 #### 分析
+
+## 设计模式
+
+- [单例模式](https://github.com/doudounannan/algorithm-coding/issues/4)
+- [工厂模式](https://github.com/doudounannan/algorithm-coding/issues/5)
