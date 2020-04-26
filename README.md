@@ -34,7 +34,7 @@
 ### 排序
 
 - [快速排序](https://github.com/doudounannan/algorithm-coding/issues/1)
-- 归并排序
-- 堆排序
+- [归并排序](https://github.com/doudounannan/algorithm-coding/issues/2)
+- [堆排序](https://github.com/doudounannan/algorithm-coding/issues/3)
 
 #### 分析
